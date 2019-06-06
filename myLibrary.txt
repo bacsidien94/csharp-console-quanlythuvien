@@ -1,0 +1,6 @@
+00007,The Essential Alan Watts,Mark Watts,Goodreads,200000,1,978-3-16-148410-7
+00009,Steve Jobs,Walter Isaacson,Goodreads,200000,1,978-3-16-148410-9
+00012,Little Prince,Antoine de Saint-Exupery,Paris 20th Century,245000,1,978-422421-13-1
+00013,Digital Gold,Nathaniel Popper,NXB TN,239000,1,978-131-1323-1
+00014,Gold Digger,John Wick,Marvel,224000,1,331-3319-11-1
+99888,The Alchemist 2017,Paulo Coelho,HaperCollins,145000,1,3130-1131-1
