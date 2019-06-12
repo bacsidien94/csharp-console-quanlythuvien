@@ -23,6 +23,7 @@ This diagram illustrate all classes and its attributes & methods have been defin
 ## Change log  
 
 ```
+...
 ```
 * **0.1** - *initialize project skeleton* 
 * **0.2** - *add reader, library ticket class*  
@@ -35,7 +36,7 @@ This diagram illustrate all classes and its attributes & methods have been defin
 * **1.0** - * first public release - submit for subject assignment - Programming Fundamental*   
 * **1.1** - *restructure all functions/classes*   
 * **1.2** - *add class diagram/readme.md, remove Vietnamese character*
-
+```
 * //more constraint for delete functions   
 * //new status for books/tickets management   
 ```
