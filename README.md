@@ -17,10 +17,10 @@ This project is created for personal continuing learning.
 ```
 This diagram illustrate all classes and its attributes & methods have been defined
 ```
-![alt text](https://github.com/bacsidien94/joe-learns-csharp/blob/master/csharp-Quanlythuvien/class-diagram.png)
+![alt text](https://github.com/bacsidien94/csharp-console-quanlythuvien/blob/master/class-diagram.png)
 
 
-### Change log  
+## Change log  
 
 ```
 * **0.1** - *initialize project skeleton* 
